@@ -1,7 +1,7 @@
 # <div align="center">👋 Hi, I'm Sandali Amanda</div>
 
 <div align="center">
-  <h3>Full Stack Developer | React Specialist | Software Engineering Undergraduate @SLIIT</h3>
+  <h3>Full Stack Developer  Software Engineering Undergraduate @SLIIT</h3>
   <p><em>💻 Call me SAN</em></p>
   
   <img src="https://komarev.com/ghpvc/?username=sandaliama&label=Profile%20views&color=0e75b6&style=flat" alt="sandaliama" />
