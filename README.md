@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently expanding skills in **Django, Spring Boot, Node.js**
+- 🌱 Currently expanding skills in **Django, Spring Boot, Node.js, React, Django, Next, HTML**
 - 📫 Reach me at **amakonaar16@gmail.com**
 - 💼 **Professional Experience:**
   - 💻 Expertise in front-end & back-end development
